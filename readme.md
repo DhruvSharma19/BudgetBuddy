@@ -82,16 +82,6 @@ We welcome contributions! Please fork the repository and submit a pull request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/budget-planner](https://github.com/your-username/budget-planner)
-
 ---
 
 Enjoy budgeting with the Personal Budget Planner! 😊
